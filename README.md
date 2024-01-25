@@ -8,13 +8,13 @@
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat-square&logo=JAVASCRIPT&color=353535) ![Bootstrap](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=REACT&color=353535) ![Bootstrap](https://img.shields.io/badge/-NODE.JS-05122A?style=flat-square&logo=NODE.JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-EJS-05122A?style=flat-square&logo=EJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-EXPRESS-05122A?style=flat-square&logo=EXPRESS&color=353535) ![Bootstrap](https://img.shields.io/badge/-MYSQL-05122A?style=flat-square&logo=MYSQL&color=353535)
+![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS&color=353535) ![Bootstrap](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat-square&logo=JAVASCRIPT&color=353535) ![Bootstrap](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=REACT&color=353535) ![Bootstrap](https://img.shields.io/badge/-NODE.JS-05122A?style=flat-square&logo=NODE.JS&color=353535) ![Bootstrap](https://img.shields.io/badge/-EJS-05122A?style=flat-square&logo=EJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-EXPRESS-05122A?style=flat-square&logo=EXPRESS&color=353535) ![Bootstrap](https://img.shields.io/badge/-MYSQL-05122A?style=flat-square&logo=MYSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON&color=353535)
 
 <br />
 
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mselek&show_icons=true&locale=en&layout=compact" alt="mselek" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mselek&" alt="mselek" />
+<!--   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mselek&" alt="mselek" /> -->
 </div>
 
 <br />
