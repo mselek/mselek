@@ -13,7 +13,7 @@
 <br />
 
 <div>
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mselek&show_icons=true&locale=en&layout=compact" alt="mselek" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mselek&show_icons=true&locale=en&layout=compact" alt="mselek" />
 <!--   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mselek&" alt="mselek" /> -->
 </div>
 
