@@ -2,7 +2,7 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://mselek.fr)](https://mselek.fr) -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melik-s/)
-[![Github](https://img.shields.io/github/followers/mselek?label=Follow&style=social)](https://github.com/mselek)
+<!-- [![Github](https://img.shields.io/github/followers/mselek?label=Follow&style=social)](https://github.com/mselek) -->
 
 ____
 <br />
