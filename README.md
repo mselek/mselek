@@ -20,7 +20,8 @@ ____
 <!--   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mselek&" alt="mselek" /> -->
 </div>
 
-____
+<!-- ____ 
 <br />
+-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmselek%2Fmselek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmselek%2Fmselek&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) -->
